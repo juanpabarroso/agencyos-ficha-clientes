@@ -1,0 +1,9 @@
+AGENCYOS — PUBLICACIÓN GRATUITA
+
+1. Crea un repositorio NUEVO y PÚBLICO en GitHub, por ejemplo agencyos-ficha-clientes. NO conviertas en público el repositorio privado AgencyOS-IA.
+2. En ese repositorio selecciona Add file > Upload files y sube index.html.
+3. En Settings > Pages, elige Deploy from a branch, rama main, carpeta /(root) y Save.
+4. Espera a que GitHub indique que la página está publicada. La URL habitual es https://TU_USUARIO.github.io/agencyos-ficha-clientes/ (verifica la URL real en Settings > Pages).
+5. Comprueba desde el móvil que puedes responder y usar Guardar ficha en PDF. En iPhone, la opción Guardar como PDF depende del menú de impresión/compartir del navegador.
+
+IMPORTANTE: Las respuestas no se envían a ningún servidor. El cliente debe guardar el PDF y enviarlo por WhatsApp o correo. Los datos pueden quedar en el almacenamiento local del navegador utilizado. El sitio público contiene únicamente el formulario y sus ejemplos, nunca respuestas privadas.
